@@ -1,2 +1,2 @@
 # 1D-CNN-Domain-Adversarial-ECG
-The code will be avaliable upon acceptance
+The code will be available upon acceptance
